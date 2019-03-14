@@ -10,6 +10,6 @@ Therefore, I tried writing another API, APIUsers, which has only get option to f
 people/employee details based on ID or full list.
 In the span of a week, I learnt a lot related to web development but require some guidance
 to fully grasp the subject. Internet resources helped a lot but some portions are not
-mentioned clearly, where I require support. As, I haven’t learnt web dev formally so I feel I
+mentioned clearly, where I require support. As, I haven’t learnt web dev formally so, I feel, I
 got stuck but I learnt a lot while doing the assignment and I’ll try to get full command on
-this.
+this as soon as possible.
